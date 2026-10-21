@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Dao Bo (Danny) Yang — Compilers, formal verification, and systems</title>
+  <desc id="desc">A navy banner with mint accents and a branching graph.</desc>
+  <rect width="1280" height="300" rx="18" fill="#101c2e"/>
+  <path d="M0 282H1280" stroke="#66d9bc" stroke-width="4"/>
+  <g stroke="#294354" stroke-width="2" fill="none">
+    <path d="M956 150L1044 75M956 150L1044 225M1044 75L1160 45M1044 75L1160 115M1044 225L1160 190M1044 225L1160 260"/>
+    <path d="M895 150H956M1160 45H1280M1160 115H1280M1160 190H1280M1160 260H1280"/>
+  </g>
+  <g fill="#101c2e" stroke="#66d9bc" stroke-width="3">
+    <circle cx="956" cy="150" r="12"/><circle cx="1044" cy="75" r="9"/><circle cx="1044" cy="225" r="9"/>
+    <circle cx="1160" cy="45" r="6"/><circle cx="1160" cy="115" r="6"/><circle cx="1160" cy="190" r="6"/><circle cx="1160" cy="260" r="6"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
+    <text x="58" y="67" fill="#66d9bc" font-size="16" font-weight="600" letter-spacing="3">SOFTWARE ENGINEER · RESEARCHER</text>
+    <text x="54" y="143" fill="#f4f7fc" font-size="59" font-weight="700" letter-spacing="-1.5">Dao Bo (Danny) Yang</text>
+    <text x="58" y="192" fill="#bccbdc" font-size="25">Compilers · Formal verification · Systems</text>
+    <text x="58" y="245" fill="#8fa5bc" font-size="18">MECHANICAL ORCHARD  /  UNIVERSITY OF WATERLOO</text>
+  </g>
+</svg>
