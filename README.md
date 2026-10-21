@@ -4,7 +4,9 @@
 
 I'm **Danny (Dao Bo Yang)**, a software engineer at **[Mechanical Orchard](https://github.com/mechanical-orchard)**. I work on compilers and have a research background in formal verification and the Move Prover.
 
-Previously, I completed co-op placements at **Huawei**, **D2L**, **Uplift**, **Cannon Medical**, and **Caribou Contest**. I studied Computer Science at the **University of Waterloo** (BCS 2024; MMath 2026). My research supervisor is **[Arie Gurfinkel](https://uwaterloo.ca/electrical-computer-engineering/profile/agurfink)**.
+Previously, I completed co-op placements at **Huawei**, **D2L**, **Uplift**, **Cannon Medical**, and **Caribou Contest**.
+
+I completed an **MMath in Computer Science** at the **University of Waterloo** (2026), supervised by **[Arie Gurfinkel](https://uwaterloo.ca/electrical-computer-engineering/profile/agurfink)**. I also earned my BCS at Waterloo (2024).
 
 ## Publications
 
