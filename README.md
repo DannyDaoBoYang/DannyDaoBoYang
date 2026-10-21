@@ -6,7 +6,7 @@ I'm **Danny (Dao Bo Yang)**, a software engineer at **[Mechanical Orchard](https
 
 Previously, I completed co-op placements at **Huawei**, **D2L**, **Uplift**, **Cannon Medical**, and **Caribou Contest**.
 
-I completed an **MMath in Computer Science** at the **University of Waterloo** (2026), supervised by **[Arie Gurfinkel](https://uwaterloo.ca/electrical-computer-engineering/profile/agurfink)**. I also earned my BCS at Waterloo (2024).
+I completed an **MMath in Computer Science** at the **University of Waterloo** (2026), supervised by **[Arie Gurfinkel](https://uwaterloo.ca/electrical-computer-engineering/profile/agurfink)**. I also earned my **BCS (Co-op)** at the **University of Waterloo** (2024).
 
 ## Publications
 
